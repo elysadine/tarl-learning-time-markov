@@ -1,5 +1,0 @@
-﻿Level,n_students,HoursTotal_mean,HoursTotal_median,HoursTotal_p10,HoursTotal_p90,HoursTotal_min,HoursTotal_max
-1,4,55.0,60.0,46.0,60.0,40.0,60.0
-2,66,50.91,60.0,40.0,60.0,40.0,60.0
-3,166,51.45,60.0,40.0,60.0,20.0,60.0
-4,230,35.57,20.0,20.0,60.0,20.0,60.0
