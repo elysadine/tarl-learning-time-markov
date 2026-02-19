@@ -1,0 +1,38 @@
+{
+  "Deb": {
+    "total_days": 10,
+    "ok": 10,
+    "bad": 0,
+    "issue_counts": {}
+  },
+  "Deuxchiffres": {
+    "total_days": 10,
+    "ok": 9,
+    "bad": 1,
+    "issue_counts": {
+      "multi_pos3": 1,
+      "executed_count=5": 1
+    }
+  },
+  "TroisA": {
+    "total_days": 10,
+    "ok": 9,
+    "bad": 1,
+    "issue_counts": {
+      "multi_pos3": 1,
+      "executed_count=5": 1
+    }
+  },
+  "TroisB": {
+    "total_days": 10,
+    "ok": 10,
+    "bad": 0,
+    "issue_counts": {}
+  },
+  "Unchiffe": {
+    "total_days": 10,
+    "ok": 10,
+    "bad": 0,
+    "issue_counts": {}
+  }
+}

@@ -1,0 +1,4 @@
+Best sequences of activities selected for 1 days (auto-stop) (Start 1, Target 5) :  Baseline MDP (fully observed) | byModel=PolicyTimeOptimal | mode=sample_seed42
+Day 1: [1, 0, 0, 2, 0, 0, 3, 0, 0, 4]
+
+(0 = non sélectionnée ce jour ; 1..4 = position de l’activité)
