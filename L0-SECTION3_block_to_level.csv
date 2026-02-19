@@ -1,0 +1,6 @@
+﻿Block,MatchedLevelTag,Level,Similarity,Top3,Method
+Deb,L1,1,0.0,"[[""L1"", 0.0], [""L2"", 0.0], [""L3"", 0.0]]",text_similarity_block_vs_leveltag
+Deuxchiffres,L1,1,0.0,"[[""L1"", 0.0], [""L2"", 0.0], [""L3"", 0.0]]",text_similarity_block_vs_leveltag
+TroisA,L1,1,0.0,"[[""L1"", 0.0], [""L2"", 0.0], [""L3"", 0.0]]",text_similarity_block_vs_leveltag
+TroisB,L1,1,0.0,"[[""L1"", 0.0], [""L2"", 0.0], [""L3"", 0.0]]",text_similarity_block_vs_leveltag
+Unchiffe,L1,1,0.0,"[[""L1"", 0.0], [""L2"", 0.0], [""L3"", 0.0]]",text_similarity_block_vs_leveltag

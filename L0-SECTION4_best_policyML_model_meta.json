@@ -1,0 +1,7 @@
+{
+  "best_model_name": "ConstantPolicy",
+  "constant_class_A_is_1": true,
+  "threshold_days_for_A": 9.0,
+  "hours_per_day": 2.0,
+  "standard_days_A": 10.0
+}

@@ -1,0 +1,9 @@
+{
+  "hypothesis_statement": "Levels 1-2 => A, Levels 3-4 => B",
+  "check_Qhours_pass": false,
+  "check_MC_pass": false,
+  "notes": {
+    "Qhours": "best action by minimizing one-step Bellman Q in HOURS",
+    "MC": "mean absorption time (hours) via Monte-Carlo with N=2000"
+  }
+}
